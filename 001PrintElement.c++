@@ -1,4 +1,4 @@
-//input an number and print array till that. or can print all ement of an array
+//input an number and print array till that. or can print all element of an array
 
 #include <iostream>
 using namespace std;
