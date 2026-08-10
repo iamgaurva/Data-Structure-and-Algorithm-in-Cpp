@@ -1,4 +1,4 @@
-//reverse the vector
+//reverse the vector(brute force method)
 
 #include <iostream>
 #include <vector>
