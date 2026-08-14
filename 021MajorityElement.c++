@@ -1,6 +1,5 @@
 // majority optimize soluiton
 
-
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
